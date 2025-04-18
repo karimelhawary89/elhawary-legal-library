@@ -1,2 +1,3 @@
-# elhawary-legal-library
-Bilingual legal library for Egyptian laws, contracts, and legal publications.
+# El Hawary Legal Library
+
+This repository powers the GitHub Pages website for El Hawary Legal Library.
